@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Урок №8 Функции/Урок №8 Функции.vcxproj" />
+  <Project Path="Урок №7 Практика массивов/Урок №7 Практика массивов.vcxproj" />
+</Solution>
