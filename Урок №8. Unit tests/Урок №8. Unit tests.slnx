@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Урок №8. Unit tests/Урок №8. Unit tests.vcxproj" />
+</Solution>
